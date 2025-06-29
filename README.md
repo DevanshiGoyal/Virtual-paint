@@ -1,5 +1,14 @@
 # Air Canvas 🎨  
 **An innovative gesture-based drawing application**  
+> *Draw with motion. Paint with presence.*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 
 ## Overview  
 Air Canvas is a creative and intuitive application that allows users to draw on a virtual canvas using hand gestures, eliminating the need for physical tools. By harnessing the power of computer vision, the project showcases how technology can transform traditional art creation into a touch-free and interactive experience.  
@@ -43,4 +52,6 @@ Air Canvas is a creative and intuitive application that allows users to draw on 
 
 ## Applications  
 - Promotes touch-free interaction, ideal for creative work or accessibility solutions.  
-- Demonstrates potential use cases for computer vision and gesture recognition.  
+- Demonstrates potential use cases for computer vision and gesture recognition.
+
+
